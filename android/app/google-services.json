@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96579744475",
+    "project_id": "kalydrive",
+    "storage_bucket": "kalydrive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96579744475:android:9f51ce82b7def69c80d2fe",
+        "android_client_info": {
+          "package_name": "com.kelvinAgyemang.kalydrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96579744475-mh48u7f7sqn55semilt3gmk7j41edoa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCacm2VBLaZBT3a6q7sM6zl3jSSMTWMves"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96579744475-mh48u7f7sqn55semilt3gmk7j41edoa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
