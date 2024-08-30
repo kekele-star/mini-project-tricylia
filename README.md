@@ -1,4 +1,4 @@
-# tricylia
+# MY Third Year Mini Project
 
 A new Flutter project.
 
